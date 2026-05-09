@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Radio Movil 24siete",
+    "slug": "radio-movil-24siete",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#242C42",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.gelmmix.radiomovil24siete",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#242C42"
+      }
+    },
+    "owner": "gelmmix",
+    "extra": {
+      "eas": {
+        "projectId": "c23aeba3-84fe-44a8-b2ac-45836db9441a"
+      }
+    }
+  }
+}
