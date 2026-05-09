@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Radio Movil 24siete",
-    "slug": "radio-movil-24siete",
+    "slug": "rm24final",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -19,7 +19,7 @@
     "owner": "gelmmix",
     "extra": {
       "eas": {
-        "projectId": "c23aeba3-84fe-44a8-b2ac-45836db9441a"
+        "projectId": "d431d35c-a2f6-47f7-a6e8-a96510e2427b"
       }
     }
   }
